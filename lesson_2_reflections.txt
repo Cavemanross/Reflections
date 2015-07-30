@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 	
 	In a folder you can initialize a repsotory with git init.  It will have no commits so it is pretty barren.  You need a file inside the folder to see what it is tracking.  It won't start tracking files until the first commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area is the files added to be applied to the next commit.  Not sure about the value it has to offer in this context.
